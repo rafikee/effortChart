@@ -3,10 +3,15 @@
 A custom charting tool for sports
 
 ## Install the dependencies
+First
 ```bash
 yarn
 # or
 npm install
+```
+Then
+```
+sudo npm install -g @quasar/cli
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
